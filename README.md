@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Dharmsinh Desai University
+🔭 I’m currently working on Dharmsinh Desai University \
 📫 How to reach me: dishantmodh7@gmail.com
 
 ## Project
