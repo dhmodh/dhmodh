@@ -7,6 +7,8 @@
 TimeTable Scanner \
 https://github.com/dhmodh/TimeTable-Scanner
 
+## Stats
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhmodh&show_icons=true&locate=en&layout=compact" />
   
  <p align-="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhmodh&show_icons=true&theme=merko" />
