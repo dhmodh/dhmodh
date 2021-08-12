@@ -18,6 +18,10 @@ Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , Django
 ## Project
 TimeTable Scanner \
 https://github.com/dhmodh/TimeTable-Scanner
+ 
+ ## Material
+ LEMP Setup \
+ https://github.com/dhmodh/SSH-LEMP-Ubuntu
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhmodh&show_icons=true&locate=en&layout=compact" />-->
 
