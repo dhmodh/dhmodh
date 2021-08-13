@@ -14,6 +14,10 @@ Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , Django
 ![GitHub metrics](https://metrics.lecoq.io/dhmodh)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dhmodh)  
+ 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/tlxkx2dmpi1i92y73m4fqcgyq)
 
 ## Project
 TimeTable Scanner \
