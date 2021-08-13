@@ -10,6 +10,8 @@ Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , Django
 ## Stats
 
  <p align-="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhmodh&show_icons=true&theme=merko" />
+ 
+ ![dhmodh Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhmodh&layout=compact&langs_count=8&hide_border=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/dhmodh)  
 
