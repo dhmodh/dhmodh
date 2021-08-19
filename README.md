@@ -26,6 +26,7 @@ TimeTable Scanner \
 https://github.com/dhmodh/TimeTable-Scanner
  
  University Student Management System \
+ https://github.com/dhmodh/University-Student-Management-System
  
  ## Material
  LEMP Setup \
