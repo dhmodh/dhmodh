@@ -25,6 +25,8 @@ Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , Django
 TimeTable Scanner \
 https://github.com/dhmodh/TimeTable-Scanner
  
+ University Student Management System \
+ 
  ## Material
  LEMP Setup \
  https://github.com/dhmodh/SSH-LEMP-Ubuntu
