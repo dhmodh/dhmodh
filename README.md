@@ -3,7 +3,7 @@
 Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , Django
 
 🎓 I’m currently studing in Dharmsinh Desai University \
-🔭 Started Intership at HHAeXchange as Associate Software Engineer \
+🔭 Started Intership at HHAeXchange as Associate Software Engineer 
 
 📫 How to reach me: dishantmodh7@gmail.com
 
