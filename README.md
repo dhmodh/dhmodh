@@ -1,9 +1,13 @@
 ### Hi there 👋, I am Dishant Modh
 
-Skills: Python , Java , C , C++ , PHP , Git , HTML , CSS , Django
+Skills: Python, Java, C, C++, PHP, Git, HTML, CSS, Django, SQL Server, Postgres, MySQL, Cassandra, Snowflake, Kubernative
 
-🎓 I’m currently studing in Dharmsinh Desai University \
-🔭 Started Intership at HHAeXchange as Associate Software Engineer 
+🎓 I’m currently studying at Dharmsinh Desai University 
+
+### Experience
+🔭 Associate Software Engineer at HHAeXchange (06/2021 - 02/2023) \
+🔭 Software Engineer at HHAeXchange (03/2023 - 02/2024) \
+🔭 Software Engineer at GlobalLogic (02/2024 - Present)
 
 📫 How to reach me: dishantmodh7@gmail.com
 
