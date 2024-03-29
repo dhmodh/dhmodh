@@ -2,7 +2,7 @@
 
 Skills: Python, Java, C, C++, PHP, Git, HTML, CSS, Django, SQL Server, Postgres, MySQL, Cassandra, Snowflake, Kubernative
 
-🎓 I’m currently studying at Dharmsinh Desai University 
+🎓 B.Tech Degree from Dharmsinh Desai University 
 
 ### Experience
 🔭 Associate Software Engineer at HHAeXchange (06/2021 - 02/2023) \
