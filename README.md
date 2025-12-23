@@ -97,8 +97,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhmodh/postgres-dba-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=postgres-dba-toolkit&theme=react&border_color=00E0FF&border_radius=10" />
+  <a href="https://github.com/dhmodh/University-Student-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=University-Student-Management-System&theme=react&border_color=00E0FF&border_radius=10" />
   </a>
   <a href="https://github.com/dhmodh/Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=Python&theme=react&border_color=00E0FF&border_radius=10" />
