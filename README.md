@@ -97,8 +97,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhmodh/University-Student-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=University-Student-Management-System&theme=react&border_color=00E0FF&border_radius=10" />
+  <a href="https://github.com/dhmodh/postgres-dba-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=postgres-dba-toolkit&theme=react&border_color=00E0FF&border_radius=10" />
   </a>
   <a href="https://github.com/dhmodh/Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=Python&theme=react&border_color=00E0FF&border_radius=10" />
@@ -113,7 +113,7 @@
 - 🩺 **Diabetes Prediction** — Predicts diabetes risk using ML (Scikit-learn, Python).  
 - 🧩 **Cassandra** — Performance tuning and experiments with distributed NoSQL databases.  
 - 📅 **TimeTable Scanner** — OCR-based timetable scanner with structured data output.  
-- 🎓 **University Student Management System** — Scalable platform for academic data management.  
+- 🐘 **PostgreSQL DBA Toolkit** — Menu-driven, production-safe PostgreSQL DBA toolkit built with `psql` for monitoring, diagnostics, and performance analysis.
 - 🐍 **Python Utilities** — Custom automation and data scripting toolkit.
 
 ---
