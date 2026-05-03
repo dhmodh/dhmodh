@@ -1,98 +1,114 @@
-<!-- 🌌 Dishant Modh GitHub Profile README (Dark Neon Theme) -->
+<!-- Dishant Modh — GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> 
-  Hey there, I'm <span style="color:#00E0FF;">Dishant Modh</span> 👨‍💻
+  Hey, I'm Dishant Modh 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+SRE+%7C+Database+Administrator;AWS+%7C+PostgreSQL+%7C+DevOps+Automation;Building+Reliable+and+Scalable+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Site+Reliability+Engineer+%26+Database+Reliability+Engineer;PostgreSQL+%7C+Aurora+%7C+MongoDB+%7C+Cassandra+%7C+Snowflake;Multi-Region+DR+%7C+Terraform+IaC+%7C+AWS+%7C+Datadog;3.8+Years+owning+production+databases+at+scale" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="mailto:dishantmodh7@gmail.com"><img src="https://img.shields.io/badge/Email-00E0FF?style=for-the-badge&logo=gmail&logoColor=white&label=dishantmodh7%40gmail.com"></a>
-  <a href="https://www.linkedin.com/in/dishantmodh"><img src="https://img.shields.io/badge/LinkedIn-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white&label=Dishant%20Modh"></a>
-  <a href="https://github.com/dhmodh"><img src="https://img.shields.io/badge/GitHub-00E0FF?style=for-the-badge&logo=github&logoColor=white&label=dhmodh"></a>
-</p>
-
----
-
-### ⚡ About Me  
-
-🌌 **Results-driven Software Engineer** with **3.8+ years of experience** in  
-**Database Administration**, **Cloud Infrastructure**, and **DevOps Automation**.  
-
-💙 Passionate about **automation**, **scalability**, and **performance optimization**.  
-🌍 Based in **Bengaluru, India**  
-🎓 B.Tech in **Information Technology** – *Dharmsinh Desai University (2018–2022)*  
-
----
-
-### 🧠 Core Skills
-
-#### 🗄️ Databases  
-`PostgreSQL` • `MySQL` • `MongoDB` • `Cassandra` • `Snowflake` • `Oracle` • `SQL Server` • `Greenplum`
-
-#### ☁️ Cloud & DevOps  
-`AWS` • `GCP` • `Aurora Postgres` • `AWS DMS` • `RDS` • `EC2` • `Kubernetes` • `Docker` • `Jenkins` • `TeamCity` • `Octopus`
-
-#### 💻 Programming & Automation  
-`Python` • `Go` • `PowerShell` • `Shell Scripting` • `Django REST Framework`
-
----
-
-### 💾 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mysql,mongodb,python,go,git,jenkins,bash,linux&theme=dark" />
+  <a href="mailto:dishantmodh7@gmail.com"><img src="https://img.shields.io/badge/Email-dishantmodh7%40gmail.com-00E0FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dishant-modh"><img src="https://img.shields.io/badge/LinkedIn-Dishant%20Modh-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://dishantmodh.com"><img src="https://img.shields.io/badge/Website-dishantmodh.com-00E0FF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 ---
 
-### 💼 Professional Experience  
+## 👨‍💻 About Me
 
-#### 🏢 **GlobalLogic – Software Engineer (Feb 2024 – Present)**
-- ⚙️ Implemented **CI/CD pipelines** using Jenkins, TeamCity & Octopus — boosting deployment efficiency by **15%**.  
-- 🚀 Delivered **20% faster** data migrations via **AWS DMS**.  
-- 🔁 Automated DBA tasks using **Python**, **Go**, and **PowerShell**.  
-- 📊 Improved observability with **Datadog**, enhancing uptime and reliability.  
+I'm an **SRE & Database Reliability Engineer** with **4+ years** of experience owning database infrastructure across distributed, cloud-native systems at healthcare-tech and enterprise scale.
 
-#### 💻 **HHAeXchange – Software Engineer (Dec 2021 – Feb 2024)**
-- ☁️ Built **multi-database AWS platforms** (RDS, Aurora, EC2, DMS).  
-- 👥 Led a 4-member team to deliver major software features, increasing user satisfaction by **30%**.  
-- 🧩 Developed and deployed backend APIs with **Python + Django REST Framework**.  
-- 🧠 Automated database administration with **Octopus**, reducing manual errors.  
+I don't just keep databases running — I make them **faster, cheaper, and self-healing.**
 
----
+**A few things that define my work:**
 
-### 🏆 Certifications  
+| Achievement | Impact |
+|---|---|
+| 🏗️ Multi-region DR with Aurora Global + AWS DMS | RTO: 8 min → **< 60 seconds** |
+| 💰 RDS + EC2 right-sizing initiative | **$1.2M annualized** AWS savings |
+| ⚡ PostgreSQL query optimization (40+ queries) | P95 latency: 1.8s → **0.9s** |
+| 🔭 Datadog + Grafana observability rollout | MTTR: 45 min → **31 min** |
+| 🤖 ML anomaly detection on pg_stat_statements | **91% precision**, 87% recall |
+| 📦 6 zero-downtime cloud migrations | **4+ TB** moved, zero SLA breach |
 
-| 🌟 Certification | 🏢 Issued By |
-|------------------|-------------|
-| ☁️ AWS Certified Solutions Architect – Associate | Amazon Web Services |
-| 🧩 MongoDB SI Associate | MongoDB |
-| 🪟 Microsoft Certified: Azure Fundamentals | Microsoft |
-| 💻 GitHub Foundations | GitHub |
+**Currently:** Software Engineer – SRE (DBA) @ GlobalLogic (Client: Hitachi), Bengaluru
+**Open to:** Senior SRE / Database Platform / Database Reliability Engineer roles
 
 ---
 
-### 🚀 Featured Projects  
+## 🗄️ Database Expertise
+
+```
+PostgreSQL 14/15   ████████████████████  Expert   — query optimization, vacuum tuning,
+                                                     replication, partitioning, HA with Patroni
+Aurora (PG/MySQL)  ████████████████████  Expert   — Global Database, Serverless v2,
+                                                     multi-region DR, zero-downtime migration
+MySQL 8            ████████████████░░░░  Advanced — replication topology, schema mgmt, RDS
+MongoDB            ████████████████░░░░  Advanced — aggregation pipelines, index tuning,
+                                                     Atlas, sharding concepts
+Cassandra          ██████████████░░░░░░  Advanced — partition key modeling, compaction
+                                                     strategy, write-heavy workload tuning
+Snowflake          ████████████░░░░░░░░  Proficient— warehouse sizing, cost optimization,
+                                                     query profiling
+Oracle             ████████████░░░░░░░░  Proficient— production DBA, AWR, execution plans
+```
+
+---
+
+## ☁️ Cloud & Infrastructure
 
 <p align="center">
-  <a href="https://github.com/dhmodh/ML-DBA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=ML-DBA&theme=react&border_color=00E0FF&border_radius=10" />
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,mysql,python,terraform,docker,grafana,prometheus,git,bash,linux,ansible&theme=dark" />
+</p>
+
+**AWS:** RDS · Aurora · EC2 · DMS · Lambda · S3 · CloudWatch · Route 53 · IAM · VPC
+**IaC & DevOps:** Terraform · GitHub Actions · Jenkins · Octopus Deploy · Ansible · Docker
+**Observability:** Datadog · Grafana · Prometheus · CloudWatch · Loki · Alertmanager
+**Languages:** Python · SQL · Bash · Go · PowerShell
+
+---
+
+## 💼 Experience
+
+### 🏢 GlobalLogic (Client: Hitachi) — SRE / DBA
+**Feb 2024 – Present | Bengaluru**
+
+> Managing global enterprise database workloads across 3 AWS regions for Hitachi's digital transformation platform.
+
+- 🌍 Own reliability of **PostgreSQL, Aurora, MySQL, MongoDB, Cassandra & Snowflake** — 99.95%+ measured uptime
+- 🔄 Designed **multi-region DR** (Aurora Global + AWS DMS) — RTO cut from 8 min to **< 60 seconds**, validated quarterly
+- 💰 Led AWS cost audit — right-sized 18 RDS/EC2 instances, retired idle resources → **$1.2M annualized savings**
+- ⚙️ Automated RDS provisioning via **Terraform + GitHub Actions** — deployment time cut by **40%**
+- 📊 Deployed **Datadog + Grafana** observability — MTTR reduced from 45 min to **31 min**
+- 🔍 Optimized MongoDB pipelines & Cassandra partition models — query latency **820ms → 450ms**
+- 👥 Mentored 2 junior SREs — reduced their incident MTTR by **35%**
+
+---
+
+### 🏥 HHAeXchange — Database Administrator
+**Dec 2021 – Feb 2024 | Ahmedabad**
+
+> Healthcare-tech SaaS platform serving 500K+ caregivers — 120+ production databases, 2M+ daily transactions.
+
+- 🐘 Administered **120+ production PostgreSQL, MySQL, Cassandra & Oracle** databases at 99.99% uptime
+- ⚡ Rewrote 40+ slow queries using `EXPLAIN ANALYZE` — P95 latency **1.8s → 0.9s** (50% improvement)
+- 🚚 Executed **6 zero-downtime migrations** (on-prem → AWS RDS/Aurora), **4+ TB** via AWS DMS + pglogical
+- 🤖 Automated replication health checks & maintenance via Python/Bash — eliminated **3 recurring P2 incidents/month**
+- 🚨 Primary **on-call DBA** for P0/P1 incidents — 12 post-mortems, 8 systemic fixes, 25% fewer repeat incidents
+- 🔧 Built reusable Terraform modules + Jenkins/Octopus CI/CD — **zero schema deployment failures** over 14 months
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/dhmodh/ml-dba">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=ml-dba&theme=react&border_color=00E0FF&border_radius=10" />
   </a>
-  <a href="https://github.com/dhmodh/diabetes-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=diabetes-prediction&theme=react&border_color=00E0FF&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dhmodh/Cassandra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=Cassandra&theme=react&border_color=00E0FF&border_radius=10" />
-  </a>
-  <a href="https://github.com/dhmodh/TimeTable-Scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=TimeTable-Scanner&theme=react&border_color=00E0FF&border_radius=10" />
+  <a href="https://github.com/dhmodh/patroni-ha-cluster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=patroni-ha-cluster&theme=react&border_color=00E0FF&border_radius=10" />
   </a>
 </p>
 
@@ -100,28 +116,37 @@
   <a href="https://github.com/dhmodh/postgres-dba-toolkit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=postgres-dba-toolkit&theme=react&border_color=00E0FF&border_radius=10" />
   </a>
-  <a href="https://github.com/dhmodh/Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=Python&theme=react&border_color=00E0FF&border_radius=10" />
+  <a href="https://github.com/dhmodh/terraform-rds-modules">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=terraform-rds-modules&theme=react&border_color=00E0FF&border_radius=10" />
   </a>
 </p>
 
----
+### 🧠 Project Highlights
 
-#### 🧠 Project Highlights
-
-- 💾 **ML-DBA** — ML-driven recommendation system for SQL index optimization & database tuning.  
-- 🩺 **Diabetes Prediction** — Predicts diabetes risk using ML (Scikit-learn, Python).  
-- 🧩 **Cassandra** — Performance tuning and experiments with distributed NoSQL databases.  
-- 📅 **TimeTable Scanner** — OCR-based timetable scanner with structured data output.  
-- 🐘 **PostgreSQL DBA Toolkit** — Menu-driven, production-safe PostgreSQL DBA toolkit built with `psql` for monitoring, diagnostics, and performance analysis.
-- 🐍 **Python Utilities** — Custom automation and data scripting toolkit.
+| Project | What it does | Key Result |
+|---|---|---|
+| [ml-dba](https://github.com/dhmodh/ml-dba) | Isolation Forest model on `pg_stat_statements` to predict deadlocks, I/O spikes, autovacuum storms | **91% precision, 87% recall** |
+| [patroni-ha-cluster](https://github.com/dhmodh/patroni-ha-cluster) | 3-node auto-healing PostgreSQL 15 cluster on AWS EC2 with Patroni + Terraform + Prometheus/Grafana | **< 5s failover**, 20+ failure tests |
+| [postgres-dba-toolkit](https://github.com/dhmodh/postgres-dba-toolkit) | Production-safe CLI toolkit for PostgreSQL monitoring, diagnostics, vacuum analysis, and index health | Used in production DBA workflows |
+| [terraform-rds-modules](https://github.com/dhmodh/terraform-rds-modules) | Reusable Terraform modules for RDS/Aurora provisioning, parameter groups, and monitoring setup | Eliminated manual RDS config drift |
 
 ---
 
-### 📊 GitHub Stats  
+## 🏆 Certifications
+
+| Certification | Issued By |
+|---|---|
+| ☁️ AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| 🍃 MongoDB SI Associate | MongoDB |
+| 🪟 Microsoft Azure Fundamentals (AZ-900) | Microsoft |
+| 🐙 GitHub Foundations | GitHub |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhmodh&show_icons=true&theme=react&border_color=00E0FF&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhmodh&show_icons=true&theme=react&border_color=00E0FF&border_radius=10&hide=stars" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhmodh&theme=react&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" width="48%" />
 </p>
 
@@ -131,36 +156,18 @@
 
 ---
 
-### 🌱 Currently Exploring  
-- 🧩 **Advanced Database Optimization & Query Tuning**  
-- ☁️ **Hybrid Cloud Architectures (AWS + GCP)**  
-- ⚙️ **Infrastructure as Code (Terraform, Ansible)**  
+## 🌱 Currently Working On
 
----
-
-### 🏅 Fun Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Performance%20Tuner-00E0FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Automation%20Ninja-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Cloud%20Optimizer-00CED1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Database%20Doctor-1E90FF?style=for-the-badge" />
-</p>
-
----
-
-### 📬 Connect with Me  
-
-<p align="center">
-  <a href="mailto:dishantmodh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-00E0FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dishantmodh"><img src="https://img.shields.io/badge/LinkedIn-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/dhmodh"><img src="https://img.shields.io/badge/GitHub-00E0FF?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+- 🔌 **pgBouncer + PgBouncer Exporter** — connection pooling layer for Patroni cluster
+- 📦 **Barman/pgBackRest** — PITR backup integration for HA cluster
+- 🤖 **LSTM model** — sequential anomaly detection for ML-DBA (next iteration)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhmodh&style=flat-square&color=00E0FF" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=dhmodh&style=flat-square&color=00E0FF" alt="Profile Views" />
 </p>
 
-<p align="center">✨ <i>“Automate. Optimize. Deliver reliably.”</i> ✨</p>
+<p align="center">
+  <i>"Automate. Optimize. Deliver reliably."</i>
+</p>
