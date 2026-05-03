@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Site+Reliability+Engineer+%26+Database+Reliability+Engineer;PostgreSQL+%7C+Aurora+%7C+MongoDB+%7C+Cassandra+%7C+Snowflake;Multi-Region+DR+%7C+Terraform+IaC+%7C+AWS+%7C+Datadog;3.8+Years+owning+production+databases+at+scale" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Site+Reliability+Engineer+%26+Database+Reliability+Engineer;PostgreSQL+%7C+Aurora+%7C+MongoDB+%7C+Cassandra+%7C+Snowflake;Multi-Region+DR+%7C+Terraform+IaC+%7C+AWS+%7C+Datadog;4+Years+owning+production+databases+at+scale" alt="Typing Animation" />
 </p>
 
 <p align="center">
