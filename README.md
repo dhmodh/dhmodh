@@ -101,25 +101,14 @@ Oracle             ████████████░░░░░░░░ 
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/dhmodh/ml-dba">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=ml-dba&theme=react&border_color=00E0FF&border_radius=10" />
-  </a>
-  <a href="https://github.com/dhmodh/patroni-ha-cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=patroni-ha-cluster&theme=react&border_color=00E0FF&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dhmodh/postgres-dba-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=postgres-dba-toolkit&theme=react&border_color=00E0FF&border_radius=10" />
-  </a>
-  <a href="https://github.com/dhmodh/terraform-rds-modules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhmodh&repo=terraform-rds-modules&theme=react&border_color=00E0FF&border_radius=10" />
-  </a>
-</p>
+| Project | What it does | Key Result |
+|---|---|---|
+| [ml-dba](https://github.com/dhmodh/ml-dba) | Isolation Forest on pg_stat_statements — predicts deadlocks, I/O spikes | **91% precision, 87% recall** |
+| [patroni-ha-cluster](https://github.com/dhmodh/patroni-ha-cluster) | 3-node self-healing PostgreSQL 15 on AWS EC2 + Terraform | **< 5s failover** |
+| [postgres-dba-toolkit](https://github.com/dhmodh/postgres-dba-toolkit) | Production-safe PostgreSQL CLI for monitoring & diagnostics | Used in production |
+| [terraform-rds-modules](https://github.com/dhmodh/terraform-rds-modules) | Reusable Terraform modules for RDS/Aurora provisioning | Eliminated config drift |
 
 ### 🧠 Project Highlights
 
