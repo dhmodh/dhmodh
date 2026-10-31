@@ -61,7 +61,7 @@ timeline
              : 120+ production DBs · 6 zero-downtime AWS migrations
     Feb 2024 : SRE / DBA @ GlobalLogic (Client - Hitachi)
              : 3 AWS regions · Aurora Global DR · Terraform automation
-    Now      : Sr. Database Reliability Engineer @ The Walt Disney Company
+    Jul 2026 : Sr. Database Reliability Engineer @ The Walt Disney Company
              : Enterprise-scale DB reliability · Terraform · Observability
 ```
 
@@ -195,7 +195,7 @@ Oracle             ████████████░░░░░░░░ 
 ## 💼 Experience
 
 ### 🏰 The Walt Disney Company — Sr. Database Reliability Engineer
-📍 India  ·  📅 [Mon YYYY] – **Present**
+📍 India  ·  📅 Jul 2026 – **Present**
 
 > Managing enterprise-scale distributed database workloads across **3 AWS regions**.
 
@@ -213,7 +213,7 @@ Oracle             ████████████░░░░░░░░ 
 ---
 
 ### 🏢 GlobalLogic *(Client: Hitachi)* — SRE / DBA
-📍 Bengaluru  ·  📅 Feb 2024 – [Jul 2026]
+📍 Bengaluru  ·  📅 Feb 2024 – Jul 2026
 
 > Managed enterprise-scale distributed database workloads across **3 AWS regions**.
 
